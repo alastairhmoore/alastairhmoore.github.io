@@ -1,5 +1,5 @@
 ---
-title: About me
+<!-- title: About me -->
 feature_text: |
   ## Alastair H Moore
 feature_image: "assets/feature_image_1500x500.jpeg"
