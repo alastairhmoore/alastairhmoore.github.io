@@ -3,7 +3,7 @@ title: About me
 feature_text: |
   ## Alastair H Moore
   Stuff about me
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "assets/feature_image_1500x500.jpeg"
 excerpt: "Alastair H Moore is a Research Fellow at Imperial College London."
 ---
 
