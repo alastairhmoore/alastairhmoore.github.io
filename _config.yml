@@ -3,3 +3,32 @@ description: Personal website
 remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Search
+  url: /search/
+
+navigation_footer:
+- title: Created by Alastair H Moore
+  url: https://alastairhmoore.com
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/AlastairHMoore
+  LinkedIn: https://www.linkedin.com/in/alastair-h-moore/
+  GitHub: https://github.com/alastairhmoore
+  link: https://www.imperial.ac.uk/people/alastair.h.moore
+
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
