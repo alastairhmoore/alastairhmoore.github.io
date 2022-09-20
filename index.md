@@ -1,9 +1,8 @@
 ---
+title: <h1 align="center">Alastair H Moore</h1>
 feature_image: "assets/feature_image_1500x500.jpeg"
 excerpt: "Alastair H Moore is a Research Fellow at Imperial College London."
 ---
-##  Alastair H Moore
-{: style="text-align: center;"} 
 
 Research Fellow at Imperial College London
 {: style="text-align: center;"} 
