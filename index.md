@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Home
+feature_text: "Alastair H Moore"
 ---
+## About me
 
-Hello World
-with edits.
+Some text will go here.
