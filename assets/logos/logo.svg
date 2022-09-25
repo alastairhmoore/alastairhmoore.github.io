@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1024"
-   height="1024"
-   viewBox="0 0 270.93334 270.93333"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
@@ -25,21 +25,21 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.2102413"
-     inkscape:cx="256.84772"
-     inkscape:cy="546.99052"
+     inkscape:cx="261.60417"
+     inkscape:cy="546.99053"
      inkscape:window-width="1041"
      inkscape:window-height="788"
      inkscape:window-x="338"
-     inkscape:window-y="1105"
+     inkscape:window-y="84"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
-       x="95.128787"
+       x="95.128784"
        y="142.69318"
-       width="76.103029"
-       height="275.87348"
+       width="76.103027"
+       height="275.87347"
        id="rect117" />
   </defs>
   <g
@@ -48,19 +48,19 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="32.720337"
-       y="190.02966"
+       style="font-style:normal;font-weight:normal;font-size:6.50388px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.162597"
+       x="6.0940514"
+       y="94.706337"
        id="text63"><tspan
          sodipodi:role="line"
          id="tspan61"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.622px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583"
-         x="32.720337"
-         y="190.02966">/A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.162597"
+         x="6.0940514"
+         y="94.706337">/A</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text115"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect117)" />
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect117);fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>
