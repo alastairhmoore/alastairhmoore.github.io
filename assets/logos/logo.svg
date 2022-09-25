@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512"
-   height="512"
-   viewBox="0 0 135.46667 135.46667"
+   width="708.92212"
+   height="522.72559"
+   viewBox="0 0 120 88.482315"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.2102413"
-     inkscape:cx="261.60417"
-     inkscape:cy="546.99053"
+     inkscape:cx="214.03977"
+     inkscape:cy="299.65568"
      inkscape:window-width="1041"
      inkscape:window-height="788"
      inkscape:window-x="338"
@@ -45,22 +45,24 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-6.6882113,-38.666868)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.50388px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.162597"
-       x="6.0940514"
-       y="94.706337"
-       id="text63"><tspan
+       style="font-style:normal;font-weight:normal;font-size:3.20646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0801612"
+       x="35.716866"
+       y="96.785339"
+       id="text63"
+       transform="scale(1.0069888,0.9930597)"><tspan
          sodipodi:role="line"
          id="tspan61"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.162597"
-         x="6.0940514"
-         y="94.706337">/A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.7238px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.0801612"
+         x="35.716866"
+         y="96.785339">/A</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text115"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect117);fill:#000000;fill-opacity:1;stroke:none" />
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect117);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>
